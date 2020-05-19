@@ -12,3 +12,8 @@ Calculate cost of every traversal and keep track of minimum cost and keep on upd
 Return the permutation with minimum cost.
  
  
+C++ Mini Project:
+Group Members:
+Naincy-9917102014(E1)
+Sushant-9917102023(E1)
+Shivangi-9917102025(E1)
